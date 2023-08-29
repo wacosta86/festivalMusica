@@ -1,5 +1,5 @@
 ### Descripción
-Este es un ejemplo de una página web de una tienda virtual creado con HTML5 y CSS3
+Este es un ejemplo de una página web de un festival de música creado con HTML5, SASS y JavaScript
 
 ### Autor
 William Acosta
